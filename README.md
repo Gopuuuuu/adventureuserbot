@@ -6,7 +6,7 @@
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 Adventure bot made by @teri_behn_ka_bf. Supported by respective adventurebot owner frnds  @export_gabber. Join for update related info channel and group :- https://t.me/adventure_family THANKS FOR VISITING OUR REPO💖
-[![MAFIA logo](https://telegra.ph/file/b61486075c6ef73dd0d12.png)](https://t.me/adventure_family)
+[![adventure logo](https://telegra.ph/file/02b3cd87cd7d9b2eac7b1.jpg)](https://t.me/adventure_family)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
