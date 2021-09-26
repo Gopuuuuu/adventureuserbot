@@ -5,7 +5,7 @@
 # ✰ 𝔸𝕕𝕧𝕖𝕟𝕥𝕦𝕣𝕖 ✰ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-Mafia userbot made by @H1M4N5HU0P. Supported by respective adventurebot owner @teri_behn_ka_bf. Join for update related info channel and group :- https://t.me/adventure_family THANKS FOR VISITING OUR REPO💖
+Adventure bot made by @teri_behn_ka_bf. Supported by respective adventurebot owner frnds  @export_gabber. Join for update related info channel and group :- https://t.me/adventure_family THANKS FOR VISITING OUR REPO💖
 [![MAFIA logo](https://telegra.ph/file/b61486075c6ef73dd0d12.png)](https://t.me/adventure_family)
 
 
