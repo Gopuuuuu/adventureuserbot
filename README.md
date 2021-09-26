@@ -2,7 +2,7 @@
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/H1M4N5HU0P)
 
 
-# 𝕄𝔸𝔽𝕀𝔸 𝕌𝕊𝔼ℝ𝔹𝕆𝕋
+# ✰ 𝔸𝕕𝕧𝕖𝕟𝕥𝕦𝕣𝕖 ✰ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 Mafia userbot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/MAFIA_USERBOT THANKS FOR VISITING OUR REPO💖
