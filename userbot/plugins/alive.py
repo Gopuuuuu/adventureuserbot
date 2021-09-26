@@ -15,13 +15,13 @@ else:
 mafia = bot.uid
 
 PM_IMG = "https://telegra.ph/file/b61486075c6ef73dd0d12.png"
-pm_caption = "__**🔥🔥𝕄𝔸𝔽𝕀𝔸 𝕌𝕊𝔼ℝ𝔹𝕆𝕋 𝕀𝕊 𝔸𝕃𝕀𝕍𝔼🔥🔥**__\n\n"
+pm_caption = "__**✰ 𝔸𝕕𝕧𝕖𝕟𝕥𝕦𝕣𝕖 ✰ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋 𝕀𝕊 𝔸𝕃𝕀𝕍𝔼🔥🔥**__\n\n"
 
 pm_caption += f"               👑𝕄𝔸𝕊𝕋𝔼ℝ👑\n**『[{DEFAULTUSER}](tg://user?id={mafia})』**\n\n"
 
 pm_caption += "🛡️TELETHON🛡️ : `1.15.0` \n"
 
-pm_caption += f"😈𝕄𝔸𝔽𝕀𝔸 𝕌𝕊𝔼ℝ𝔹𝕆𝕋😈       : `{mafiaversion}`\n"
+pm_caption += f"🌟 A͙d͙v͙e͙n͙t͙u͙r͙e͙      : `{mafiaversion}`\n"
 
 pm_caption += f"😱Sudo😱            : `{sudou}`\n"
 
