@@ -17,21 +17,21 @@ mafia = bot.uid
 PM_IMG = "https://telegra.ph/file/b61486075c6ef73dd0d12.png"
 pm_caption = "__**✰ 𝔸𝕕𝕧𝕖𝕟𝕥𝕦𝕣𝕖 ✰ 𝕌𝕊𝔼ℝ𝔹𝕆𝕋 𝕀𝕊 𝔸𝕃𝕀𝕍𝔼🔥🔥**__\n\n"
 
-pm_caption += f"               👑𝕄𝔸𝕊𝕋𝔼ℝ👑\n**『[{DEFAULTUSER}](tg://user?id={mafia})』**\n\n"
+pm_caption += f"               👑𝕄𝔸𝕊𝕋𝔼ℝ👑\n**『[{gopuuuuuu}](@teri_behn_ka_bf)』**\n\n"
 
 pm_caption += "🛡️TELETHON🛡️ : `1.15.0` \n"
 
-pm_caption += f"🌟 A͙d͙v͙e͙n͙t͙u͙r͙e͙      : `{mafiaversion}`\n"
+pm_caption += f"🌟 A͙d͙v͙e͙n͙t͙u͙r͙e͙      : `{adventureversion}`\n"
 
 pm_caption += f"😱Sudo😱            : `{sudou}`\n"
 
-pm_caption += "😇CHANNEL😇️   : [ᴊᴏɪɴ](https://t.me/MAFIA_USERBOT)\n"
+pm_caption += "😇CHANNEL😇️   : [ᴊᴏɪɴ](https://t.me/adventure_family)\n"
 
-pm_caption += "😎CREATOR😎    : [Himanshu](https://t.me/H1M4N5HU0P)\n\n"
+pm_caption += "😎CREATOR😎    : [gopuuu](@teri_behn_ka_bf)\n\n"
 
-pm_caption += "🤩SUPPORTER🤩    :[HellBoy](https://t.me/kraken_the_badass)\n\n"
+pm_caption += "🤩SUPPORTER🤩    :[gopuuBoy](https://t.me/adventure_family)\n\n"
 
-pm_caption += "      [✨REPO✨](https://github.com/H1M4N5HU0P/MAFIA-USERBOT) 🔹 [📜License📜](https://github.com/H1M4N5HU0P/MAFIA-USERBOT/blob/main/LICENSE)"
+pm_caption += "      [✨REPO✨](https://github.com/Gopuuuuu/adventureuserbot.git) 🔹 [📜License📜]https://github.com/Gopuuuuu/adventureuserbot.git(/blob/main/LICENSE)"
 #@command(outgoing=True, pattern="^.alive$")
 @bot.on(admin_cmd(outgoing=True, pattern="alive$"))
 @bot.on(sudo_cmd(pattern="alive$", allow_sudo=True))
